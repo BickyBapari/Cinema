@@ -118,7 +118,6 @@ body {
     margin-right: 0px;
   }
   .main {
-    display: inline;
     display: grid;
     height: 1370px;
     margin: 20px;
